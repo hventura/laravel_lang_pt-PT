@@ -3,9 +3,7 @@
 
 Após alguma procura encontrei alguns ficheiros em pt_BR e estavam incompletos,
 
-Decidi colocar estes à vossa disposição e tentarei matê-los atualizados.
-
-- Conto com a vossa ajuda para essa ✨Magia✨ acontecer
+Decidi colocar estes ficheiros de traduções à disposição e tentarei matê-los atualizados.
 
 ## O que foi feito
 
